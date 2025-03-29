@@ -1,2 +1,2 @@
-console.log("version 2");
-let john = 1+9;
+console.log("version 5");
+let john = 5 + 5;
